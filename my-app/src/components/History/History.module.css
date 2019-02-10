@@ -1,0 +1,15 @@
+.History {
+    margin: 0 auto;
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.HistoryItem {
+    width: 300px;
+    border: 2px solid plum
+}
+.HistoryHeader {
+    text-align: center
+}

@@ -1,0 +1,14 @@
+.usermenu {
+  width: 250px;
+  display: flex;
+  justify-content: space-between;
+}
+.avatar {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+
+.username {
+  padding-top: 10px;
+}
